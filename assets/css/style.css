@@ -406,6 +406,8 @@ main {
 .cl-connect {
   background: #FFCF5C;
   padding: 35px 0;
+  position: relative;
+  z-index: 1;
 }
 .cl-connect .cl-connect-heading {
   font-weight: bold;
