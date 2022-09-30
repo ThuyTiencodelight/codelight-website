@@ -1,6 +1,8 @@
 .cl-connect{
   background: $cl_yellow;
   padding: 35px 0;
+  position: relative;
+  z-index: 1;
   .cl-connect-heading{
     font-weight: bold;
     font-size: 30px;
